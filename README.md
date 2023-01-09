@@ -28,7 +28,7 @@ The execution process involves the process of overseeing the code implementation
 
 Project closing is done at the end project development lifecycle. This section involves documents involved in closing a project such as budget overview, resource overview, result overview and lessons learned throughout the development period to identify what went right and what went wrong.
 
-[Project Presentation](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/F-PROJECT_PRESENTATION.md
+[Project Presentation](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/F-PROJECT_PRESENTATION.md)
 
 Project Presentation shows the demonstration of the Fruit Spoilage Detection System developed by *insert company name*
 
