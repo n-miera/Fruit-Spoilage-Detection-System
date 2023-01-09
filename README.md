@@ -8,27 +8,27 @@ The PMP-Plan developed is simply a simulation collaboration between third party 
 
 ## Project-Management-Plan
 
-[Project Summary](https://pages.github.com/)
+[Project Summary](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/A-PROJECT_SUMMARY.md)
 
 Project summary gives a short look over the projects objective as well as the details of team members.
 
-[Project Planning](https://pages.github.com/)
+[Project Planning](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/B-PROJECT_PLANNING.md)
 
 The planning process involves the process of identifying the scope and needs of the client. The deliverables in this section are such as Gantt Chart, and Work Breakdown Structure(WBS).
 
-[Project Implementation](https://pages.github.com/)
+[Project Implementation](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/C-PROJECT_IMPLEMENTATION.md)
 
 The implementation process involves the process of developing the system. This involves finding out the software requirements, system structure, expected outcome of the system and others.
 
-[Project Execution](https://pages.github.com/)
+[Project Execution](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/D-PROJECT_EXECUTION.md)
 
 The execution process involves the process of overseeing the code implementation and results of the project and documenting the procesess.
 
-[Project Closing](https://pages.github.com/)
+[Project Closing](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/E-PROJECT_CLOSING.md)
 
 Project closing is done at the end project development lifecycle. This section involves documents involved in closing a project such as budget overview, resource overview, result overview and lessons learned throughout the development period to identify what went right and what went wrong.
 
-[Project Presentation](https://pages.github.com/)
+[Project Presentation](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/F-PROJECT_PRESENTATION.md
 
 Project Presentation shows the demonstration of the Fruit Spoilage Detection System developed by *insert company name*
 
