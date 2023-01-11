@@ -1,8 +1,8 @@
-# PROJECT-EXECUTION
+# PROJECT EXECUTION
 
-## D.-EXECUTING-THE-PROJECT
+## D. EXECUTING THE PROJECT
 
-### Project-Design-and-Coding
+### Project Design and Coding
 
 Flowchart Design:
 
@@ -33,10 +33,10 @@ If the percentage is less than 1, the program will give a message telling us the
 
 Result using MatLAB
 
-#### Spoilt-fruit-result-example
+#### Spoilt fruit result example
 ![Screenshot 2023-01-11 121009](https://user-images.githubusercontent.com/121591014/211725018-b86589a4-f2eb-42f0-9681-0a9edb01d6f7.png)
 
-#### Unspoilt-fruit-result-example
+#### Unspoilt fruit result example
 ![Screenshot 2023-01-11 121056](https://user-images.githubusercontent.com/121591014/211725062-95b791f3-343b-4e29-8ce0-9538cedda501.png)
 
 
