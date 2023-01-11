@@ -6,9 +6,10 @@
 
 ##### 1. Customer Acceptance Form
 
-![image](https://user-images.githubusercontent.com/121591014/211807020-466245a4-2656-41bb-b3a2-0890fd981d98.png)
+![image](https://user-images.githubusercontent.com/121591014/211811735-48300ed7-a8b0-4058-b94e-8e9265910606.png)
 
 ##### 2. Lessons Learned Document
+![image](https://user-images.githubusercontent.com/121591014/211814186-7b616d32-b7f8-4794-974f-cf9615ac1cd1.png)
 
 ##### 3. Final Project Report
 
@@ -25,6 +26,11 @@ After completion of the system, we are able to ensure that the system has an acc
 ##### 3.0 ORIGINAL AND ACTUAL SCHEDULE
 
 The team members of the project stuck to the planned Gantt chart therefore the progress at the end follows the original planned schedule of the project.
+![image](https://user-images.githubusercontent.com/121591014/211811238-e17ad0cb-26b3-4eb8-bc5c-03e90220bb76.png)
+![image](https://user-images.githubusercontent.com/121591014/211810470-85a005f6-a515-49db-962d-138cb1cc115c.png)
+![image](https://user-images.githubusercontent.com/121591014/211810808-72e84f93-cf60-4489-9aae-8ed6931c362f.png)
+![image](https://user-images.githubusercontent.com/121591014/211811021-c8995a96-8baa-497c-8ce1-64bf0f5b40f9.png)
+
 
 ##### 4.0 ORIGINAL AND ACTUAL BUDGET
 
