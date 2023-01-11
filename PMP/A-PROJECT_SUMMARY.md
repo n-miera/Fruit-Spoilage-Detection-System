@@ -21,3 +21,6 @@ The method to identify fruit spoilage that is used currently consumes quite a lo
 * To detect the spoilage on fruits by using image recognition technique
 * To prevent more fruits from being affected to spoilage from another fruits
 * To apply AI techniques in detecting the patterns of spoilage on fruits
+
+
+Next: [Project Planning](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/B-PROJECT_PLANNING.md)
