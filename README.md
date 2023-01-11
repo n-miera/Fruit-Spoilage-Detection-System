@@ -36,9 +36,14 @@ Project Presentation shows the demonstration of the Fruit Spoilage Detection Sys
 
 Result using MATLAB
 
-### Spoilt-fruit-result-example
+#### Spoilt-fruit-result-example
+
+Figure 1 show the histogram equalization of the image which shows the intensity values of image pixels. This takes in an image and shows the intensity of the pixels in the image. Figure 2 shows the original image (left), the image converted into grayscale (middle) and the binarized form of the image (right). The reason the image needs to be converted into grayscale is so that the histogram could detect the difference in pixel intesity easily. The image is then binarized in order to enhance the difference in hues of the image. This helps ease the detection
+of spoilt fruit areas on the fruit. If there is a higher area of spoilage(dark area) detected on the fruit, the code will denote the fruit as spoilt as shown in the message box in Figure 3.
 ![Screenshot 2023-01-11 121009](https://user-images.githubusercontent.com/121591014/211716134-22f18df3-ef20-4414-81f2-5dcfafb36237.png)
-### Unspoilt-fruit-result-example
+##### Unspoilt-fruit-result-example
+
+Figure 4 shows the histogram equalization of the middle image in Figure 5. The system detects the difference in the area of pixel intensity and calculates it to determine whether a fruit is spoilt or not. Based on the graph we can see that the area of distribution on the left side of the histogram is small. Figure 5 shows the original image (left), the image converted into grayscale (middle) and the binarized form of the image (right). Figure 6 shows a message that tells us that the fruit is not spoilt. As we can visibly see in the leftmost image in figure 5, this is correctly interpretted. Thus this shows that this method can be used to determine whether a fruit is spoilt or not.
 ![Screenshot 2023-01-11 121056](https://user-images.githubusercontent.com/121591014/211716142-b69d9680-7783-40a8-ab3e-9d34f09f5e48.png)
 
 
