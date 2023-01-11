@@ -6,6 +6,8 @@
 
 ##### 1. Customer Acceptance Form
 
+![image](https://user-images.githubusercontent.com/121591014/211807020-466245a4-2656-41bb-b3a2-0890fd981d98.png)
+
 ##### 2. Lessons Learned Document
 
 ##### 3. Final Project Report
@@ -34,13 +36,24 @@ The actual budget closely follows the original budget plan for the project. This
 
 ##### 5.1 SCOPE
 
+The project scope has been done since the beginning of the project. For example, at first the system is not able to detect the spoilage percentage of a fruit based on just the image when we insert the image into the system. The system will go through a problem in detecting dark colored fruits as it will detect all dark areas as just spoilage instead. Therefore, it cannot be used on dark fruits such as mangosteens and ripe grapes.
+
 ##### 5.2 OBJECTIVES
+
+Our company was able to achieve the objectives set a the start of the project development. The system uses image processing techniques to detect the parts of the fruit that is spoilt. The system uses a form of unsupervised learning to detect any area of spoilage as it learns to find whether there is a large area of unspoilt space or not on its own. The system was developed with the help of useful tools in MatLAB to ease the detection process.
 
 ##### 5.3 IMPACTS
 
+The production of this system will be able to help ease and make detection of spoilt fruits less time-consuming. This will help fruit sellers allocate more time to work on other stuff and ensure buyers that the fruit they are buying are not spoilt on purchase. This will also reduce the amount of waste and loss in sales for the fruit sellers.
+
 ##### 6.0 TRANSITION PLAN
 
-##### 4. Close Contract
+Our company staff will be able to help when any problems are faces. The main jobs that staff is able to help in providing on the Fruit Spoilage Detection System is as follows:
+1. System maintanence
+2. Training new employees to work on the system.
+3. Handling any errors and system updates.
 
+##### 4. Close Contract
+![image](https://user-images.githubusercontent.com/121591014/211803193-5e716c94-678b-4f7d-ad15-1a5d9d38cf35.png)
 
 ###### Next: [Project Presentation](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/F-PROJECT_PRESENTATION.md)
