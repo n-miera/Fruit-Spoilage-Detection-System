@@ -36,7 +36,9 @@ Project Presentation shows the demonstration of the Fruit Spoilage Detection Sys
 
 Result using MATLAB
 
+### Spoilt-fruit-result-example
 ![Screenshot 2023-01-11 121009](https://user-images.githubusercontent.com/121591014/211716134-22f18df3-ef20-4414-81f2-5dcfafb36237.png)
+### Unspoilt-fruit-result-example
 ![Screenshot 2023-01-11 121056](https://user-images.githubusercontent.com/121591014/211716142-b69d9680-7783-40a8-ab3e-9d34f09f5e48.png)
 
 
