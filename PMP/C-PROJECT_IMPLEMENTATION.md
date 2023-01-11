@@ -39,5 +39,16 @@ Then, the system will show a message box informing that the fruit is not spoiled
 
 ## Tasks and Estimated Costs
 
+|      Task  | Second Header | Third Header |
+| ------------- | ------------- |--------------|
+| Server Maintenance  | Content Cell  |
+| Construction Supervision  | Content Cell  |
+| Cultural Rescources  | Content Cell  |
+| Construction Supervision  | Content Cell  |
+| Construction Supervision  | Content Cell  |
+| Construction Supervision  | Content Cell  |
+| Construction Supervision  | Content Cell  |
+
+
 
 Next: [Project Execution](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/D-PROJECT_EXECUTION.md)
