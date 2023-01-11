@@ -39,15 +39,20 @@ Then, the system will show a message box informing that the fruit is not spoiled
 
 ## Tasks and Estimated Costs
 
-|      Task  | Second Header | Third Header |
+|      Task  |    Cost           | Notes |
 | ------------- | ------------- |--------------|
-| Server Maintenance  | Content Cell  |
-| Construction Supervision  | Content Cell  |
-| Cultural Rescources  | Content Cell  |
-| Construction Supervision  | Content Cell  |
-| Construction Supervision  | Content Cell  |
-| Construction Supervision  | Content Cell  |
-| Construction Supervision  | Content Cell  |
+| Project Management  | RM85,000  | Handled by project managers, developers and other team members
+| Equipment and equipment used  | RM5,600  | The hardware and software used
+| Project Signs  | RM3,500  | Promotion cost of the project
+| Surveys  | RM1,500  | Performs survey on the topic of this project
+| Design Costs  | RM135,800  | The cost for designing the system
+| TOTAL  | RM231,400  | Estimated
+
+## Milestones and Chart
+
+Microsoft Project:
+
+
 
 
 
