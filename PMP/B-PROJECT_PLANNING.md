@@ -30,7 +30,7 @@ In this Fruit Spoilage Detection System project, we need to identify the scope o
 ## Risk Identification Chart (Quality, Cost, Time)
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 | --------------- | --------------- | --------------- | --------------- |
-| Quality</br> (Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program) | 1. Inadequate Quality Assurance Program: The system confused with fruit shape recognition 2. Inadequate Quality Assurance Program: The quality of the AI model is biased towards a certain design of the fruits.| How: The output result always segmented the wrong part of the fruit spoilage When: The quality problem of will be determined during the unit testing phase| Assign one member to keep on collecting the data day to day and increased the dataset until a satisfied result is determined. |
+| Quality</br>(Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program) | 1. Inadequate Quality Assurance Program: The system confused with fruit shape recognition</br>2. Inadequate Quality Assurance Program: The quality of the AI model is biased towards a certain design of the fruits.| How: The output result always segmented the wrong part of the fruit spoilage</br>When: The quality problem of will be determined during the unit testing phase| Assign one member to keep on collecting the data day to day and increased the dataset until a satisfied result is determined. |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 4 |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 4 |
 
