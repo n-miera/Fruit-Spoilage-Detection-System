@@ -10,7 +10,7 @@ Flowchart Design:
 
 Fruit Spoilage Detection Example
 
-### Description-of-the-project-coding-and-implementation
+### Description of the project coding and implementation
 
 The program starts with calling in an image of a fruit that we want to analyze and store it into a variable, denoted by I in this program. Next, we use the imhist function in MatLAB to display the histogram of the image in order for us to see the color gradiation in the image.
 ![image](https://user-images.githubusercontent.com/121591014/211720688-7a2f543d-da7b-421d-bacd-f20df3532a16.png)
