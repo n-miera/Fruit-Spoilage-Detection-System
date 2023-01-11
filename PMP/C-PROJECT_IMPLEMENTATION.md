@@ -72,5 +72,15 @@ Microsoft Project:
 
 ![Process-Project-Group-G_page-0010](https://user-images.githubusercontent.com/121595811/211890893-c5603589-c3f3-45c5-9b87-999274fa4157.jpg)
 
+Time Management Gantt Chart:
+
+<img width="759" alt="image" src="https://user-images.githubusercontent.com/121595811/211892302-f3314685-aae7-43f4-a4d9-cf4da9ec67e6.png">
+
+<img width="758" alt="image" src="https://user-images.githubusercontent.com/121595811/211892498-9181fae7-57ec-482e-bb74-57e9c725fede.png">
+
+<img width="758" alt="image" src="https://user-images.githubusercontent.com/121595811/211892602-ca91013b-31f8-4951-a13d-37e20857571c.png">
+
+<img width="759" alt="image" src="https://user-images.githubusercontent.com/121595811/211892703-810dec5a-a33a-4563-ae40-6eb489120e7f.png">
+
 
 Next: [Project Execution](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/D-PROJECT_EXECUTION.md)
