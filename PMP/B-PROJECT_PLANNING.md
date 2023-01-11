@@ -28,6 +28,11 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 In this Fruit Spoilage Detection System project, we need to identify the scope of the project. For instance, the fruit is reflecting to lights and fruit with sticker or package will not be acceptable. Besides, this project scope down the limit of the project by only detect fruit. Therefore, other object such as vegetables might not be able to use this system.
 
 ## Risk Identification Chart (Quality, Cost, Time)
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 ## Responsibility Assignment Matrices (RAM)
 
