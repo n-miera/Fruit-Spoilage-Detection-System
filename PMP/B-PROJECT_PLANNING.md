@@ -17,6 +17,7 @@ Project management WBS is shown in the Gantt Chart below:
 
 ![image](https://user-images.githubusercontent.com/121600807/211861029-70cd7c39-cbcc-4103-b75a-a91cfeecf8af.png)
 
+
 As for the Fruit Spoilage Detection Project, the system WBS are represented as follow. This WBS is constructed to breakdown the technical part of the project into several modules such as interface design, MATLAB‘s Libraries Management, Fruit Detection and Fruit Spoilage Recognition:
 
 ![image](https://user-images.githubusercontent.com/121600807/211861292-d489c4f3-722b-4482-82df-a1e077c0a189.png)
