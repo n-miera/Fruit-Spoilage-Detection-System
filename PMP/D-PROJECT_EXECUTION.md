@@ -38,3 +38,6 @@ Result using MatLAB
 
 #### Unspoilt-fruit-result-example
 ![Screenshot 2023-01-11 121056](https://user-images.githubusercontent.com/121591014/211725062-95b791f3-343b-4e29-8ce0-9538cedda501.png)
+
+
+##### Next: [Project Closing](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/E-PROJECT_CLOSING.md)
