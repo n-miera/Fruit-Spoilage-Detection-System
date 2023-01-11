@@ -30,7 +30,7 @@ Project closing is done at the end project development lifecycle. This section i
 
 [Project Presentation](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/F-PROJECT_PRESENTATION.md)
 
-Project Presentation shows the demonstration of the Fruit Spoilage Detection System developed by *insert company name*
+Project Presentation shows the demonstration of the Fruit Spoilage Detection System developed by HereNew Inc.
 
 ## Sample-Result
 
