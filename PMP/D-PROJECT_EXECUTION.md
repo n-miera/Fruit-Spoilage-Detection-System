@@ -28,3 +28,13 @@ In this section, we calculate the area of 'spoilage' in the image to see if the 
 Finally, we check if the area of spoilage is more than 2000 or less than 2000. If the spoilage area is less than 2000, it will add 10 to the total condition and if it is more than 2000, 20 will be added. After the total condition in each object has been accumulated, the total condition is divided by 100 to see the percentage of spoilage.
 If the percentage is less than 1, the program will give a message telling us the fruit is not spoilt and safe to eat. If the percentage is more than 1, the program will give a message telling us the fruit is spoilt and not safe to eat.
 ![image](https://user-images.githubusercontent.com/121591014/211723993-89651ed4-1327-46fb-8f53-2747702d8b26.png)
+
+### Project-Result
+
+Result using MatLAB
+
+#### Spoilt-fruit-result-example
+![Screenshot 2023-01-11 121009](https://user-images.githubusercontent.com/121591014/211725018-b86589a4-f2eb-42f0-9681-0a9edb01d6f7.png)
+
+#### Unspoilt-fruit-result-example
+![Screenshot 2023-01-11 121056](https://user-images.githubusercontent.com/121591014/211725062-95b791f3-343b-4e29-8ce0-9538cedda501.png)
