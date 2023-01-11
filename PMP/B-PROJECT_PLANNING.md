@@ -28,11 +28,36 @@ A work breakdown structure (WBS) is created to map all the necessary tasks and d
 In this Fruit Spoilage Detection System project, we need to identify the scope of the project. For instance, the fruit is reflecting to lights and fruit with sticker or package will not be acceptable. Besides, this project scope down the limit of the project by only detect fruit. Therefore, other object such as vegetables might not be able to use this system.
 
 ## Risk Identification Chart (Quality, Cost, Time)
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
+| --------------- | --------------- | --------------- | --------------- |
+| Quality
+(Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program)
+ |1. Inadequate Quality Assurance Program: The system confused with fruit shape recognition
+
+
+2. Inadequate Quality Assurance Program: The quality of the AI model is biased towards a certain design of the fruits.
+ | How: The output result always segmented the wrong part of the fruit spoilage
+
+When: The quality problem of will be determined during the unit testing phase
+ | Assign one member to keep on collecting the data day to day and increased the dataset until a satisfied result is determined. |
+|Cost
+(Estimating errors; inadequate productivity, cost, change, or contingency)
+ | 1. Contingency: The costing of the server will be spike if one of the developers forget to shut down the EC2 instance when not using it.
+
+2. Inadequate productivity: Team members are affected by Covid-19 and unable to deliver what they supposed to deliver which led to extra cost need to allocate for the cloud servers.
+ | How: The monthly bills show unexpected extra charged to the bills.
+
+When: The problem most probably will be encountered during the project execution and project implementation.
+ | Notify the owner through email or discord whenever budget exceed threshold in the AWS cloud computing service. |
+| Time
+(Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products)
+ | . Project not able to reach the milestone set as described in the Gantt Chart.
+
+2. Errors in estimating resource availability: There are not enough server to be used to run the fruit spoilage recognition model training
+ | How: The members are stuck with a certain problem and drag all the other team members
+
+When: The problem will be encountered during the project execution and monitoring phase.
+ | Ask support from the other team member and switch their task or job to other job to avoid him/her to stuck in the problem loop. |
 
 ## Responsibility Assignment Matrices (RAM)
 
