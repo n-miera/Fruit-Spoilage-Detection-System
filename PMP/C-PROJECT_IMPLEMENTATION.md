@@ -52,8 +52,25 @@ Then, the system will show a message box informing that the fruit is not spoiled
 
 Microsoft Project:
 
+![Process-Project-Group-G_page-0001](https://user-images.githubusercontent.com/121595811/211890232-4af48d1b-d0a7-47d2-954a-6177aa031598.jpg)
 
+![Process-Project-Group-G_page-0002](https://user-images.githubusercontent.com/121595811/211890500-8cf8b39c-6995-411c-aaf7-7cb920913b41.jpg)
 
+![Process-Project-Group-G_page-0003](https://user-images.githubusercontent.com/121595811/211890578-ac6a9b03-0670-4166-85b6-e4427698c822.jpg)
+
+![Process-Project-Group-G_page-0004](https://user-images.githubusercontent.com/121595811/211890613-d5245f0d-5a87-4f9d-bdbc-e9f6348426d3.jpg)
+
+![Process-Project-Group-G_page-0005](https://user-images.githubusercontent.com/121595811/211890653-348b30f5-36f5-4a79-82a2-9678f79a0fc9.jpg)
+
+![Process-Project-Group-G_page-0006](https://user-images.githubusercontent.com/121595811/211890682-4888bccc-deaf-4d67-97aa-9ec8656c526d.jpg)
+
+![Process-Project-Group-G_page-0007](https://user-images.githubusercontent.com/121595811/211890719-9bda0340-5536-4051-81be-ad9f3cf58ba8.jpg)
+
+![Process-Project-Group-G_page-0008](https://user-images.githubusercontent.com/121595811/211890768-f58d2a9b-0036-4c1f-b9fc-f8cb8572cfa8.jpg)
+
+![Process-Project-Group-G_page-0009](https://user-images.githubusercontent.com/121595811/211890809-8284bc9d-9fb7-4a0e-89ba-c9002cd5a59e.jpg)
+
+![Process-Project-Group-G_page-0010](https://user-images.githubusercontent.com/121595811/211890893-c5603589-c3f3-45c5-9b87-999274fa4157.jpg)
 
 
 Next: [Project Execution](https://github.com/n-miera/Fruit-Spoilage-Detection-System/blob/main/PMP/D-PROJECT_EXECUTION.md)
