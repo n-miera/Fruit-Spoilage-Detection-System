@@ -20,6 +20,7 @@ The first parameter is the variable that refers to the image we are using, in th
 ![image](https://user-images.githubusercontent.com/121591014/211722675-8ced6b16-4a1b-47d5-b503-672ddca41df8.png)
 
 Next, we check every labeled object sections in the image. The image is labeled according to areas that are bright. The centroid of each object is located and relabeled. 
+
 ![image](https://user-images.githubusercontent.com/121591014/211722817-452152ed-4354-41fd-a6c4-78f1d0f53555.png)
 
 In this section, we calculate the area of 'spoilage' in the image to see if the fruit is spoilt by calculating how large each object is.
